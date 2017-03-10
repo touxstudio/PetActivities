@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPentagram</string>
+
+    <string name="pName">Name</string>
+    <string name="pPic">Phone</string>
+    <string name="pRate">Email</string>
+
+</resources>
